@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajteradale
 - 👀 I’m interested in Data analysis and data science
-- 🌱 I’m currently learning SQL,Python,Data analutics and visualisation
+- 🌱 I’m currently learning SQL, Python, Data analytics and visualisation - Python libraries, Probability and Stats
 - 💞️ I’m looking to collaborate on Data analytics Projects
 - 📫 How to reach me :- maild id - pankajteradale108@gmail.com
 -                          mob no - 9590232745
